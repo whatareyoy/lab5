@@ -1,0 +1,77 @@
+td, th { 
+	border: 3px solid;
+	text-align: center;
+	}
+body {
+	font-size: 20px;
+	text-align: center;
+	border: 0px;
+	background-image: url(../images/Space.jpg);
+}
+h1{
+	color:red;
+	font-weight: bold;
+}
+#planets{
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px;
+	color:#6434eb;
+	background-color: red;
+}
+.image{
+	margin-left: auto;
+	margin-right: auto;
+	color:#6434eb;
+	font-weight: bold;
+	background-color: red;
+}
+.Days{
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	color:#6434eb;
+	background-color: yellow;
+}
+.periods{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	color:#6434eb;
+	font-weight: bold;
+}
+.Distance{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: red;
+	color:#6434eb;
+	font-weight: bold;
+}
+.Temperature{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: navy;
+	color:#6434eb;
+	font-weight: bold;
+}
+.Gravity{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: yellow;
+	color:#6434eb;
+	font-weight: bold;
+}
+.Velocity{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	color:#6434eb;
+	font-weight: bold;
+}
+.Obliquity{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: grad;
+	color:#6434eb;
+	font-weight: bold;
+}
